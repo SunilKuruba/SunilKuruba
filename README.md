@@ -4,6 +4,14 @@
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm a passionate **Data Engineer** and **Software Engineer** currently pursuing my **Master of Science in Computer Science** at the **University of Illinois Chicago**. With over four years of professional experience at [Fivetran](https://fivetran.com), I've honed my skills in designing robust ETL pipelines, optimizing data architectures, and leveraging cloud technologies to solve complex data problems. My background spans various domains including **ETL pipeline development**, **data warehousing**, **distributed systems**, and **cloud computing**. I thrive on building scalable data solutions that drive impactful business insights.
 
+## 🎓 Education
+
+### University of Illinois Chicago
+*Master of Science in Computer Science | Aug 2024 – Present*  
+
+### RV College of Engineering, Bengaluru
+*Bachelor of Engineering in Computer Science | Aug 2015 – June 2019*  
+ 
 ## 💼 Experience
 
 ### [Fivetran](https://fivetran.com) - **Senior Software Engineer**
