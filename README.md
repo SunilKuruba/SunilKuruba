@@ -1,16 +1,16 @@
-# Sunil Kuruba
+# Hi, I'm Sunil <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-## **👨🏻‍💻 Data Engineer**
+## Senior Backend & Data Engineer | AWS Certified Data Engineer | Ex-Fivetran
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm currently pursuing an MS in Computer Science at the University of Illinois Chicago, graduating in Dec 2025, with a focus on advanced data engineering, cloud computing, distributed systems, and big data technologies. My academic work aligns with my passion for solving real-world data challenges through scalable, cloud-native backend architectures.
+I bring ~5 years of industry experience in data engineering and backend systems, designing and operating scalable, cloud-native, and high-performance data platforms used in production by enterprise customers. I recently completed an MS in Computer Science at the University of Illinois Chicago, where I specialised in data engineering, cloud computing, distributed systems, and big data technologies, building directly on my industry background.
 
-I’m an AWS Certified Data Engineer – Associate, skilled in building secure, cost-efficient, and high-performance data pipelines using services such as Amazon S3, Glue, EMR, Kinesis, Redshift, Athena, and DynamoDB. My expertise spans ETL/ELT, data lake architectures, governance, and real-time analytics at scale.
+I am an AWS Certified Data Engineer – Associate with strong hands-on experience building secure, cost-efficient, and high-throughput data pipelines using services such as Amazon S3, Glue, EMR, Kinesis, Redshift, Athena, and DynamoDB. My expertise spans ETL/ELT pipelines, data lake and lakehouse architectures, data governance, and real-time analytics at scale.
 
-Previously, I worked as a Senior Software Engineer at Fivetran, contributing to core pipeline infrastructure used by enterprise customers. I re-architected the BigQuery data writer to support partitioning, clustering, and JSON — reducing customer costs by ~90%. I also built a high-performance DynamoDB connector (15× faster) and improved MongoDB syncs using Change Streams (5× speedup).
+Previously, I worked as a Senior Software Engineer at Fivetran, collaborating in a startup environment across multiple teams within the data pipeline platform and contributing to both source connectors and destination writers. My work spanned API-based connectors as well as database connectors such as DynamoDB and MongoDB, focusing on scalability, correctness, and performance. I led the design of a high-performance DynamoDB incremental sync engine, achieving 15× faster syncs, and implemented MongoDB Change Streams–based CDC incremental syncing, delivering a 5× performance improvement. On the destination side, I worked on data warehouse writers, including BigQuery and Snowflake.
 
-Beyond connectors, I authored the Isolated Endpoint Sync (IES) framework — now adopted in 500+ connectors across 10+ teams — and led the design of the Data Preview feature for smoother onboarding. I also onboarded the 2024 intern batch through a structured training program and conducted technical interviews for various engineering roles.
+Beyond individual connectors, I authored and designed a reliability framework that was adopted across 10+ engineering teams, improving consistency and fault tolerance across the data pipeline platform. I also won multiple internal hackathons, delivering features focused on product improvements, developer productivity, and platform innovation. In addition, I mentored and onboarded interns through a structured training program and regularly participated in technical interviews for engineering roles.
 
-Passionate about building scalable, reliable, and innovative data solutions that drive real business value. Actively exploring new opportunities in data engineering, backend systems, and cloud infrastructure.
+I enjoy working on high-impact data infrastructure problems, building systems that are scalable, reliable, and cost-efficient from day one. I am currently open to full-time roles in data engineering, backend systems, and cloud infrastructure, particularly in fast-moving, product-focused teams.
 
 ## Core Strengths
 
@@ -44,7 +44,7 @@ Demonstrates ability to design, build, secure, and maintain data analytics solut
 ### RV College of Engineering, Bengaluru
 *Bachelor of Engineering in Computer Science | Aug 2016 – May 2020*  
 
-## 🧑‍💻 Experience
+## Experience
 
 ### **Senior Software Engineer**  
 **Fivetran** · Bengaluru, India  
