@@ -85,10 +85,26 @@ _Jan 2020 – May 2020 · 5 mos_
 
 ## Projects
 
+###  Mini Database Management System Internals Implementation
+**GitHub:** [View Project](https://github.com/SunilKuruba/Mini-Database-Management-System-Internals-Implementation)
+Implemented core database engine internals including page-based storage, buffer management, record storage, and B+ tree indexing as part of an academic DBMS project.
+**Tech:** C, Storage Manager, Buffer Manager (FIFO/LRU), Record Manager, B+ Tree, Valgrind
+
+---
+
 ### **AWS vs GCP Data Pipeline Benchmarking**
 **GitHub:** [View Project](https://github.com/SunilKuruba/AWS-VS-GCP-Data-Pipeline-Comparative-Analysis-of-Real-Time-Data-Streaming)  
 Benchmarks real-time data pipelines on AWS and GCP using a common IoT workload. Evaluates performance, cost, and sustainability.  
 **Tech:** AWS Kinesis, GCP Pub/Sub, Lambda, Dataflow, Python
+
+---
+
+###  Visual Analytics and Interactive Dashboards for LinkedIn Postings
+
+**GitHub:** [View Project](https://github.com/SunilKuruba/Visual-Analytics-and-Interactive-Dashboards-for-LinkedIn-Postings)
+
+Developed an interactive visual analytics platform analyzing 124K+ LinkedIn job postings to uncover trends in skill demand, salaries, geography, experience levels, and remote work. Built reproducible data pipelines in Python and designed linked dashboards using Altair/Vega-Lite, including geospatial salary maps, skill–salary–industry views, and embedding-based job similarity exploration using PCA and UMAP.
+Tech: Python, Pandas, Altair, Vega-Lite, PCA, UMAP, Jupyter, GitHub Pages
 
 ---
 
